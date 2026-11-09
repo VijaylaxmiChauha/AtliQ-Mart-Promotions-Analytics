@@ -61,3 +61,4 @@ Translating business requirements into analytical insights.
 Author
 
 Data Analytics Project | SQL | Power BI
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNDQ4OGNkYTktMzdjNy00MjQxLTliMmItNTMxMGI2OTlmM2UwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=860e44b69de6885c0b3b
